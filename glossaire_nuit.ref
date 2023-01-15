@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive" xmlns:op="utc.fr:ics/opale3"><op:glos><op:glosM><sp:term>Nuit</sp:term><sp:def><op:sTxt><sc:para xml:space="preserve">La est la période qui se situe entre la fin du crépuscule civil du soir et le début du crépuscule civil du matin. <sc:inlineStyle role="spec">{night)</sc:inlineStyle></sc:para></op:sTxt></sp:def></op:glosM></op:glos></sc:item>

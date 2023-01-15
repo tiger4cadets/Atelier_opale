@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive" xmlns:op="utc.fr:ics/opale3"><op:odRoot><op:odRootM><sp:version>202210221022</sp:version><sp:date>2022-10-22</sp:date><sp:typo>yes</sp:typo><sp:settings><sp:glos>yes</sp:glos><sp:acr>yes</sp:acr><sp:ref>yes</sp:ref><sp:bib>yes</sp:bib><sp:index>no</sp:index></sp:settings></op:odRootM><sp:ue sc:refUri="/module_00_introduction.xml"/></op:odRoot></sc:item>

@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive" xmlns:op="utc.fr:ics/opale3"><op:glos><op:glosM><sp:term>Liaison de commande et de contrôle</sp:term><sp:def><op:sTxt><sc:para xml:space="preserve">La liaison de commande et de contrôle est une liaison de données entre l'aéronef télépiloté et le poste de contrôle utilisé pour la gestion d'un vol. (<sc:inlineStyle role="spec">command and control link</sc:inlineStyle>)</sc:para></op:sTxt></sp:def></op:glosM></op:glos></sc:item>

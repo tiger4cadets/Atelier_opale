@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive" xmlns:op="utc.fr:ics/opale3"><op:acr><op:acrM><sp:acr>FPV</sp:acr><sp:desc>First-person view device</sp:desc></op:acrM></op:acr></sc:item>

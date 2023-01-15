@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive" xmlns:op="utc.fr:ics/opale3"><op:glos><op:glosM><sp:term>Région d'utilisation de la pression standard</sp:term><sp:def><op:sTxt><sc:para xml:space="preserve">Tout l’espace aérien intérieur canadien, sauf la région de . En anglais  <sc:inlineStyle role="spec">standard pressure region.</sc:inlineStyle></sc:para></op:sTxt></sp:def></op:glosM></op:glos></sc:item>

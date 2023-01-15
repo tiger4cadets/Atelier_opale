@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive" xmlns:op="utc.fr:ics/opale3"><op:bib><op:bibM><sp:id>Loi sur l’aéronautique</sp:id><sp:type>web</sp:type><sp:desc><op:bibTxt><sc:para xml:space="preserve">Ministre de la Justice. (2022, 11 septembre). Loi sur l’aéronautique. Gouvernement du Canada. <sc:uLink role="url" url="https://laws-lois.justice.gc.ca/PDF/A-2.pdf">https://laws-lois.justice.gc.ca/PDF/A-2.pdf</sc:uLink></sc:para></op:bibTxt></sp:desc></op:bibM></op:bib></sc:item>

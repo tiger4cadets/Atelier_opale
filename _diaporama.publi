@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive" xmlns:op="utc.fr:ics/opale3"><op:presRoot><op:presRootM><sp:version>202209230918</sp:version><sp:date>2022-09-23</sp:date><sp:auth><op:sTxt><sc:para xml:space="preserve">Tiger4</sc:para></op:sTxt></sp:auth></op:presRootM><sp:ue sc:refUri="/module_00_introduction.xml"/></op:presRoot></sc:item>

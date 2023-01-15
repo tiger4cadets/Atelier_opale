@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive" xmlns:op="utc.fr:ics/opale3"><op:glos><op:glosM><sp:term>Route</sp:term><sp:def><op:sTxt><sc:para xml:space="preserve">La est une projection, sur la surface de la terre, de la trajectoire d'un aéronef dont le sens, en un point quelconque, est généralement exprimé en degrés par rapport au nord vrai, magnétique ou de la grille. <sc:inlineStyle role="spec">{track)</sc:inlineStyle></sc:para></op:sTxt></sp:def></op:glosM></op:glos></sc:item>
